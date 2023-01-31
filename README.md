@@ -28,7 +28,7 @@ https://github.com/DYNC-Android/AddHeart
 
 ### UI和多媒体部分
 
-自制PS的木鱼图片，
+PS自制的木鱼图片
 
 其他UI图标来源于网站IconFont
 
