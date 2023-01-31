@@ -3,17 +3,11 @@
 
 自制的安卓电子木鱼Android Wooden Fish，点击会有+1动画，可以设置是否开启振动和声音，可以自定义数值，置零数值。
 
-
 ## 开发环境
 
 Android Studio
 
 API > 21 安卓5.0以上  minSdk 21   targetSdk 33
-
-### 效果展示
-
-![Screenshot_2023-01-31-20-18-45-15_911ae26e9e65e8927a789d974f8fb67e](https://user-images.githubusercontent.com/57706599/215757883-88577cf8-1a57-4735-83e6-3ba3e4a6c643.jpg)
-
 
 ### 实现说明：
 
@@ -34,4 +28,6 @@ https://github.com/DYNC-Android/AddHeart
 
 https://www.iconfont.cn/
 
+### 效果图片展示
 
+![Screenshot_2023-01-31-20-18-45-15_911ae26e9e65e8927a789d974f8fb67e](https://user-images.githubusercontent.com/57706599/215757883-88577cf8-1a57-4735-83e6-3ba3e4a6c643.jpg)
