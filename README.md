@@ -1,9 +1,15 @@
 # WoodenFish
 
-
 自制的安卓电子木鱼Android Wooden Fish，点击会有+1动画，可以设置是否开启振动和声音，可以自定义数值，置零数值。
 
-## 开发环境
+### 效果视频展示
+
+抖音视频地址：
+
+
+
+
+### 开发环境
 
 Android Studio
 
@@ -11,7 +17,7 @@ API > 21 安卓5.0以上  minSdk 21   targetSdk 33
 
 ### 实现说明：
 
-点击+1，木鱼图片设置监听setOnTouchListener，重写OnTouch方法，然后处理缩放、+1动画，声音播放，振动等操作，
+点击+1，木鱼图片设置监听setOnTouchListener，重写OnTouch方法，然后处理缩放、+1动画，声音播放，振动等操作；其中数据存储处理用到了SharedPreferences保存数据键值对。
 
 
 ### 用到的依赖
