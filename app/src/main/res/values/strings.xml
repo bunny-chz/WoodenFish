@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bunny木鱼</string>
+    <string name="SaveData">ConfigData</string>
+    <string name="tap_exit_app">再按一次退出应用</string>
+</resources>
