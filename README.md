@@ -15,7 +15,7 @@ Android Studio
 
 API > 21 安卓5.0以上  minSdk 21   targetSdk 33
 
-### 实现说明：
+### 实现说明
 
 点击+1，木鱼图片设置监听setOnTouchListener，重写OnTouch方法，然后处理缩放、+1动画，声音播放，振动等操作；其中数据存储处理用到了SharedPreferences保存数据键值对。
 
@@ -26,13 +26,17 @@ API > 21 安卓5.0以上  minSdk 21   targetSdk 33
 
 https://github.com/DYNC-Android/AddHeart
 
-### UI部分
+### UI和多媒体部分
 
 自制PS的木鱼图片，
 
 其他UI图标来源于网站IconFont
 
 https://www.iconfont.cn/
+
+木鱼敲击音频来源于
+
+https://www.tosound.com/search/word-%E6%9C%A8%E9%B1%BC
 
 ### 效果图片展示
 
